@@ -13,7 +13,7 @@ import com.codeassignment.huntington.restservices.exception.EmployeeDataServiceE
  */
 public class CommonUtil {
 	
-	static Logger log = Logger.getLogger("org.opers.compass.data.util.CommonUtil");
+	static Logger log = Logger.getLogger("com.codeassignment.huntington.restservices.util.CommonUtil");
 
 
 	/**
